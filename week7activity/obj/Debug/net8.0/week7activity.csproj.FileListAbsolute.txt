@@ -1,0 +1,14 @@
+C:\Users\Lungile\Documents\C#\week7activity\week7activity\bin\Debug\net8.0\week7activity.exe
+C:\Users\Lungile\Documents\C#\week7activity\week7activity\bin\Debug\net8.0\week7activity.deps.json
+C:\Users\Lungile\Documents\C#\week7activity\week7activity\bin\Debug\net8.0\week7activity.runtimeconfig.json
+C:\Users\Lungile\Documents\C#\week7activity\week7activity\bin\Debug\net8.0\week7activity.dll
+C:\Users\Lungile\Documents\C#\week7activity\week7activity\bin\Debug\net8.0\week7activity.pdb
+C:\Users\Lungile\Documents\C#\week7activity\week7activity\obj\Debug\net8.0\week7activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lungile\Documents\C#\week7activity\week7activity\obj\Debug\net8.0\week7activity.AssemblyInfoInputs.cache
+C:\Users\Lungile\Documents\C#\week7activity\week7activity\obj\Debug\net8.0\week7activity.AssemblyInfo.cs
+C:\Users\Lungile\Documents\C#\week7activity\week7activity\obj\Debug\net8.0\week7activity.csproj.CoreCompileInputs.cache
+C:\Users\Lungile\Documents\C#\week7activity\week7activity\obj\Debug\net8.0\week7activity.dll
+C:\Users\Lungile\Documents\C#\week7activity\week7activity\obj\Debug\net8.0\refint\week7activity.dll
+C:\Users\Lungile\Documents\C#\week7activity\week7activity\obj\Debug\net8.0\week7activity.pdb
+C:\Users\Lungile\Documents\C#\week7activity\week7activity\obj\Debug\net8.0\week7activity.genruntimeconfig.cache
+C:\Users\Lungile\Documents\C#\week7activity\week7activity\obj\Debug\net8.0\ref\week7activity.dll
